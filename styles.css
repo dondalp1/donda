@@ -1,11 +1,11 @@
 @font-face {
-    font-family: 'OCRB';
+    font-family: 'TIMES NEW ROMAN';
     src: url('ocrb.otf') format('opentype');
 }
 
 body {
-    background-color: #7e6b61; /* Background color from your image */
-    font-family: 'OCRB', sans-serif;
+    background-color: #cbbbab; /* Background color from your image */
+    font-family: 'TIMES NEW ROMAN', sans-serif;
     margin: 0;
     padding: 0;
     display: flex;
@@ -24,7 +24,7 @@ body {
 }
 
 .text-section {
-    color: #1e1d19;
+    color: #221d1a;
     text-align: left;
     line-height: 1.5;
     font-size: 1.2rem;
